@@ -1,0 +1,53 @@
+*{
+    margin: auto;
+    width: auto;
+    background-color: azure;
+}
+h1{
+    font: outline;
+    font-style: normal;
+    font-size: 100px;
+    color: rgb(18, 18, 19);
+    font-weight: bolder
+    text-align: left;
+    text-shadow:  2px 1px brown;
+ }
+
+h2{
+    color: rgb(22, 56, 207);
+    font-weight: bold;
+    text-align: left;
+    font-style: normal;
+    font-weight: bold;
+    padding: 5px;
+    line-height: 1.6em;
+    font-size: 30px;
+
+}
+h3{
+    color: black;
+    text-align: left;
+    font-style: italic;
+    font-weight: bold;
+    padding: 5px;
+    line-height: 1.6em;
+    font-size: 20px;
+}
+img{
+    border-radius: 50%;
+    border-color: rgb(92, 22, 22);
+    border: 8px solid rgb(34, 25, 25);
+}
+a{
+    text-align: center;
+    text-decoration: none;
+    line-height: 1.8;
+
+}
+a:hover{
+    color:greenyellow;
+}
+#address{
+    color: red;
+    -ms-text-kashida-space: 100px
+}
